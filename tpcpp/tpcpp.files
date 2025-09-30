@@ -2,6 +2,7 @@ Makefile
 Media.cpp
 Media.h
 include/Film.h
+include/GesteurMedia.h
 include/GroupeMedia.h
 include/GroupePhoto.h
 include/GroupeVideo.h
